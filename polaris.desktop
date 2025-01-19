@@ -1,5 +1,5 @@
 [Desktop Entry]
 Name=Polaris
 Comment=A brand-new lightweight desktop inspired by MacOS.
-Exec=/home/user/Polaris.sh
+Exec=/home/user/polaris.sh
 Type=Application
