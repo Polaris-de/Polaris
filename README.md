@@ -1,2 +1,2 @@
 # Polaris
-# Polaris is a brand-new linux desktop environment that is easy to use and lightweight.
+# Polaris is a brand-new lightweight linux desktop environment inspired by MacOS.
