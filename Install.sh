@@ -10,3 +10,5 @@ echo -e "[Settings]\ngtk-icon-theme-name=<icon_theme_name>" > ~/.config/gtk-3.0/
 gtk-update-icon-cache /usr/share/icons/<icon_theme_name>
 sudo mv /home/user/Downloads/Polaris/Polaris.sh /home/user
 sudo mv /home/user/Downloads/Polaris/polaris.desktop /usr/share/xsessions
+nitrogen --set-zoom-fill /home/user/Polaris/wallpaper.jpg
+nitrogen --save
